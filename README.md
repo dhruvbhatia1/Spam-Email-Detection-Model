@@ -8,3 +8,5 @@
 - Enhanced efficiency and accuracy by leveraging the Naive Bayes algorithm, LabelEncoder, and CountVectorizer.
 - Ensured a cleaner and safer inbox experience by filtering out unwanted and potentially harmful spam emails.
 
+<img width="499" alt="image" src="https://github.com/dhruvbhatia1/Spam-Email-Detection-Model/assets/65610188/b9d367b7-5e6c-441b-b8b8-649c8a903eca">
+
